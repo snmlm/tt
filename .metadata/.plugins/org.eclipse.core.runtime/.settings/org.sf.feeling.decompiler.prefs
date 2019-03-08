@@ -1,0 +1,12 @@
+brightStyle={"text"\:{"foreground"\:"COLOR_RED"}}
+darkStyle={"text"\:{"foreground"\:"COLOR_BLUE"}}
+decompile.count=3
+eclipse.preferences.version=1
+jd.ide.eclipse.prefs.DisplayLineNumbers=true
+jd.ide.eclipse.prefs.RealignLineNumbers=true
+org.sf.feeling.decompiler.attach_source=false
+org.sf.feeling.decompiler.check_update=false
+org.sf.feeling.decompiler.reusebuff=false
+org.sf.feeling.decompiler.use_eclipse_formatter=false
+trayLinkStrategy=[]
+uuid=71fbc3f5-728c-4ec6-bfb9-be3c5f8eb0b4
